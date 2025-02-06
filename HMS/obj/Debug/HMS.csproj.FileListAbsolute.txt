@@ -1,0 +1,14 @@
+C:\Users\MOATAZ\Documents\moataz\HMS\Project\HMS\obj\Debug\HMS.csproj.AssemblyReference.cache
+C:\Users\MOATAZ\Documents\moataz\HMS\Project\HMS\obj\Debug\HMS.frmMain.resources
+C:\Users\MOATAZ\Documents\moataz\HMS\Project\HMS\obj\Debug\HMS.Properties.Resources.resources
+C:\Users\MOATAZ\Documents\moataz\HMS\Project\HMS\obj\Debug\HMS.csproj.GenerateResource.cache
+C:\Users\MOATAZ\Documents\moataz\HMS\Project\HMS\obj\Debug\HMS.csproj.CoreCompileInputs.cache
+C:\Users\MOATAZ\Documents\moataz\HMS\Project\HMS\bin\Debug\HMS.exe.config
+C:\Users\MOATAZ\Documents\moataz\HMS\Project\HMS\bin\Debug\HMS.exe
+C:\Users\MOATAZ\Documents\moataz\HMS\Project\HMS\bin\Debug\HMS.pdb
+C:\Users\MOATAZ\Documents\moataz\HMS\Project\HMS\obj\Debug\HMS.csproj.Up2Date
+C:\Users\MOATAZ\Documents\moataz\HMS\Project\HMS\obj\Debug\HMS.exe
+C:\Users\MOATAZ\Documents\moataz\HMS\Project\HMS\obj\Debug\HMS.pdb
+C:\Users\MOATAZ\Documents\moataz\HMS\Project\HMS\obj\Debug\HMS.Patients.frmManagePatients.resources
+C:\Users\MOATAZ\Documents\moataz\HMS\Project\HMS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MOATAZ\Documents\moataz\HMS\Project\HMS\bin\Debug\Newtonsoft.Json.xml
